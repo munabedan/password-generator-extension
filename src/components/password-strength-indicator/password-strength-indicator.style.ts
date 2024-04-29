@@ -7,7 +7,7 @@ const Wrapper = styled(Box)`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 72px;
+  height: 50px;
   
   ${(p) => p.theme.breakpoints.down('md')} {
     height: 56px;

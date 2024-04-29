@@ -1,0 +1,19 @@
+{
+    "name": "Password Generator",
+    "description": "Generate unique passwords.",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "homepage_url": "",
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_title": "Password Generator",
+      "default_icon": {
+        "48": "logo.png",
+        "96": "logo.png"
+      }
+    },
+    "icons": {
+      "48": "logo.png",
+      "96": "logo.png"
+    }
+  }

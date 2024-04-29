@@ -6,7 +6,7 @@ import { getColor } from '@/utils/styled';
 const Button = styled(MButton)`
   background-color: ${getColor('greenNeon')};
   box-sizing: border-box;
-  height: 65px;
+  height: 40px;
   border-radius: 0;
   border: 2px solid ${getColor('greenNeon')};
   color: ${getColor('greyDark')};

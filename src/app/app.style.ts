@@ -15,14 +15,14 @@ const Wrapper = styled(Box)`
 `;
 
 const PageWrapper = styled(Box)`
-  width: 540px;
+  width: 400px;
   max-width: 100%;
 `;
 
 const FormBox = styled(Box)`
   background-color: ${getColor('greyDark')};
-  padding: 24px 32px;
-  gap: 24px;
+  padding: 14px 22px;
+  gap: 14px;
   display: flex;
   flex-direction: column;
 
@@ -34,7 +34,7 @@ const FormBox = styled(Box)`
 const Title = styled(Typography)`
   margin-bottom: 32px;
   text-align: center;
-  padding-top: 133px;
+  padding-top: 32px;
   display: block;
   color: ${getColor('greyDefault')};
   
